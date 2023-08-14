@@ -2,7 +2,7 @@
   {
     "id": "64da2f18a977a8ad5e0521b1",
     "name": "Howe",
-    "kind": 0,
+    "kind": 1,
     "phone": "+1 (944) 491-2335",
     "address": {
       "street": "Floriańska",
@@ -61,7 +61,7 @@
   {
     "id": "64da2f1809029c01bfa739db",
     "name": "Myrtle",
-    "kind": 0,
+    "kind": 1,
     "phone": "+1 (882) 547-2860",
     "address": {
       "street": "Floriańska",
@@ -415,7 +415,7 @@
   {
     "id": "64da2f18a70ac511941ffb1e",
     "name": "Kristina",
-    "kind": 0,
+    "kind": 1,
     "phone": "+1 (969) 525-3118",
     "address": {
       "street": "Floriańska",
@@ -651,7 +651,7 @@
   {
     "id": "64da2f18478abcf70f1edb40",
     "name": "Erika",
-    "kind": 0,
+    "kind": 1,
     "phone": "+1 (945) 459-3153",
     "address": {
       "street": "Floriańska",
@@ -887,7 +887,7 @@
   {
     "id": "64da2f18e380310b10a72125",
     "name": "West",
-    "kind": 0,
+    "kind": 1,
     "phone": "+1 (970) 512-3644",
     "address": {
       "street": "Floriańska",
@@ -1182,7 +1182,7 @@
   {
     "id": "64da2f18ec2ab7a941dbde72",
     "name": "Richmond",
-    "kind": 0,
+    "kind": 1,
     "phone": "+1 (900) 567-3851",
     "address": {
       "street": "Floriańska",
@@ -1241,7 +1241,7 @@
   {
     "id": "64da2f18e2a90d4ff687903f",
     "name": "Lara",
-    "kind": 0,
+    "kind": 1,
     "phone": "+1 (801) 494-3060",
     "address": {
       "street": "Floriańska",
