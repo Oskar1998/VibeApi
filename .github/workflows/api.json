@@ -1,29 +1,50 @@
 [
   {
-    "id": "64d9de292045d894b50214d7",
-    "name": "Conrad",
+    "id": "64da1f7b4aa6f4243abcea93",
+    "name": "Herman",
     "kind": 0,
-    "phone": "+1 (812) 402-2824",
+    "phone": "+1 (813) 530-2965",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06798,
-        "longitude": 19.99702
+        "latitude": 50.06362,
+        "longitude": 19.95465
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Ad velit irure ex laborum. Eiusmod proident dolor mollit ea. Incididunt nostrud id veniam veniam.\r\n",
+    "description": "Voluptate proident enim enim Lorem quis excepteur et et. Esse minim anim consectetur dolore proident occaecat reprehenderit. Ut ea minim occaecat velit. Amet do adipisicing in anim culpa proident cupidatat eu. Ex laboris anim ullamco ullamco nisi tempor ex proident ad nulla. Enim culpa velit non anim ex.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -31,30 +52,51 @@
     ]
   },
   {
-    "id": "64d9de29719118f395e782fd",
-    "name": "Velazquez",
+    "id": "64da1f7b8233d27db754dd06",
+    "name": "Alejandra",
     "kind": 0,
-    "phone": "+1 (806) 580-3344",
+    "phone": "+1 (936) 449-2862",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06995,
-        "longitude": 19.97756
+        "latitude": 50.0685,
+        "longitude": 19.99147
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Qui amet tempor elit mollit. Eu irure cillum minim reprehenderit esse enim. Elit est excepteur qui officia eu eu ipsum nostrud. Aliqua do irure quis sint sit excepteur magna ea sint reprehenderit incididunt. Aliqua minim exercitation laborum ut est dolore tempor mollit consectetur et. Irure aute cupidatat voluptate qui adipisicing ad ea laboris mollit deserunt mollit. Esse duis nulla excepteur anim sunt sit eiusmod aliquip ea.\r\n",
+    "description": "Excepteur anim velit eu fugiat elit anim esse adipisicing. Duis consequat quis aliquip aute anim dolore voluptate do adipisicing nisi ex duis est. Dolore laboris tempor nisi consequat non pariatur dolore quis. Ea dolore laboris fugiat nulla cupidatat aute.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -62,30 +104,51 @@
     ]
   },
   {
-    "id": "64d9de29112995061a1014d2",
-    "name": "Marion",
+    "id": "64da1f7bf835b54ad15d5817",
+    "name": "Grant",
     "kind": 0,
-    "phone": "+1 (804) 460-3771",
+    "phone": "+1 (827) 456-3294",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06811,
-        "longitude": 19.98879
+        "latitude": 50.06937,
+        "longitude": 19.96961
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Sunt officia laboris sunt irure. Consectetur officia excepteur ullamco officia consectetur. Laboris cupidatat ut eiusmod Lorem enim qui laborum dolore nulla eiusmod anim proident. Eiusmod qui pariatur ad pariatur eiusmod. Dolor eu deserunt elit adipisicing eiusmod aliqua consequat velit voluptate fugiat. In minim nulla commodo deserunt eu ut laborum pariatur do incididunt mollit Lorem.\r\n",
+    "description": "Nisi minim excepteur quis do veniam velit amet adipisicing deserunt. Exercitation do aliqua aute ullamco. Adipisicing do incididunt sint non ad enim laborum non in aliqua ex exercitation minim. Non ea irure reprehenderit adipisicing ullamco proident id consectetur consectetur. Sit ex ex laboris mollit pariatur culpa. Dolor laborum nulla consequat incididunt reprehenderit eiusmod qui sit est adipisicing. Nisi fugiat proident minim non ullamco dolore do nulla magna ea.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -93,30 +156,51 @@
     ]
   },
   {
-    "id": "64d9de29782d310481d7ef52",
-    "name": "Mullins",
+    "id": "64da1f7ba4162cd0039fef7c",
+    "name": "Graciela",
     "kind": 0,
-    "phone": "+1 (989) 557-3028",
+    "phone": "+1 (883) 541-3285",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.0697,
-        "longitude": 19.9488
+        "latitude": 50.06616,
+        "longitude": 19.99349
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Duis voluptate cupidatat sunt elit excepteur velit adipisicing voluptate. Sit laboris qui ullamco in tempor ipsum mollit nostrud consequat duis aliquip ipsum proident. Aliquip pariatur aliqua ad elit.\r\n",
+    "description": "Consequat amet elit pariatur ipsum pariatur anim dolore id quis incididunt irure sit. Et ex exercitation mollit qui nisi proident mollit Lorem nulla aute dolore aute excepteur eiusmod. Elit laborum amet deserunt pariatur proident amet do pariatur non irure ut ea sint. Sit enim dolore veniam est laborum laborum do est.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -124,30 +208,51 @@
     ]
   },
   {
-    "id": "64d9de29e4a595adb06187db",
-    "name": "Consuelo",
+    "id": "64da1f7b8c285a00932943e8",
+    "name": "Hill",
     "kind": 0,
-    "phone": "+1 (921) 457-2191",
+    "phone": "+1 (995) 469-3313",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06846,
-        "longitude": 19.93661
+        "latitude": 50.06246,
+        "longitude": 19.95588
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Voluptate sint fugiat magna nulla non eiusmod id cupidatat velit ea aliqua. Dolore officia dolore duis cillum nisi. Eiusmod do ex elit velit excepteur occaecat. Labore fugiat ullamco ullamco elit qui enim enim aliqua consequat elit.\r\n",
+    "description": "Dolore enim do duis qui. Eiusmod est aliqua labore deserunt Lorem laborum excepteur officia dolore qui quis. Aliqua pariatur voluptate et amet nisi. Elit tempor et exercitation consequat reprehenderit aliquip laboris duis proident mollit. Enim reprehenderit exercitation pariatur magna aute. Aute exercitation deserunt fugiat occaecat culpa duis nostrud. Aliqua laborum in id cupidatat et.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -155,30 +260,51 @@
     ]
   },
   {
-    "id": "64d9de29d434fecf2e9b7bf3",
-    "name": "Mccarthy",
+    "id": "64da1f7b117ef621df96dae8",
+    "name": "Barrera",
     "kind": 0,
-    "phone": "+1 (926) 574-2523",
+    "phone": "+1 (944) 414-3800",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.0642,
-        "longitude": 19.95127
+        "latitude": 50.06219,
+        "longitude": 19.99032
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Ex labore cillum reprehenderit velit. Aliqua laborum dolore sint voluptate quis. Qui cupidatat ut duis nisi veniam velit quis ut voluptate ipsum exercitation adipisicing qui anim. Duis minim veniam tempor officia ipsum aliquip sint. Sit proident eu non nostrud aliqua eiusmod eiusmod non culpa dolore velit fugiat consectetur.\r\n",
+    "description": "Ex culpa ad excepteur nostrud cillum duis quis in aliqua dolor. Nulla amet voluptate sit deserunt ut exercitation cillum do irure veniam. Deserunt commodo ullamco qui tempor incididunt velit. Consectetur irure elit commodo incididunt commodo aliquip in tempor anim.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -186,30 +312,51 @@
     ]
   },
   {
-    "id": "64d9de29a7db50ecfe6d25a2",
-    "name": "Callahan",
+    "id": "64da1f7bc7c33bd5b18b8266",
+    "name": "Mccall",
     "kind": 0,
-    "phone": "+1 (940) 543-3689",
+    "phone": "+1 (996) 569-3444",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06603,
-        "longitude": 19.95462
+        "latitude": 50.06717,
+        "longitude": 19.98302
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Dolor sunt ut elit pariatur cupidatat dolore tempor sunt. Voluptate qui duis duis do sit laborum ad ex ea pariatur sint ex ex. Officia id eu velit qui ad exercitation esse veniam exercitation Lorem sint. Ut occaecat officia voluptate ad dolore cillum ad et ut nostrud cillum magna excepteur quis.\r\n",
+    "description": "Ea incididunt laborum reprehenderit cupidatat laboris non qui id irure eiusmod tempor occaecat dolor. Sunt laboris excepteur tempor qui non tempor labore veniam. Ullamco minim consectetur laborum ut non Lorem incididunt culpa incididunt. Duis amet fugiat laborum eiusmod enim ipsum reprehenderit et in ullamco ut ad. Enim excepteur sint velit laborum Lorem. Laborum reprehenderit culpa sit tempor adipisicing sit.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -217,30 +364,51 @@
     ]
   },
   {
-    "id": "64d9de293ef2732249906000",
-    "name": "Dee",
+    "id": "64da1f7b8f5a62019c1b19ff",
+    "name": "Toni",
     "kind": 0,
-    "phone": "+1 (968) 541-3563",
+    "phone": "+1 (951) 462-2429",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06305,
-        "longitude": 19.98265
+        "latitude": 50.06261,
+        "longitude": 19.98469
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Minim minim eu nisi anim proident quis proident et nostrud magna esse esse adipisicing in. Culpa duis qui dolor id commodo veniam voluptate nisi. Aliquip duis eiusmod irure labore.\r\n",
+    "description": "Laborum veniam amet ex nostrud quis tempor incididunt velit velit est sunt. Deserunt labore reprehenderit duis labore cupidatat. Nostrud commodo minim magna culpa ullamco. Ut laboris cillum non adipisicing non nostrud. Ut nulla culpa amet ullamco ullamco eu veniam anim non. Sunt nisi do enim commodo nostrud ipsum nulla labore elit ea.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -248,30 +416,51 @@
     ]
   },
   {
-    "id": "64d9de295b02bb4b4edfb6bf",
-    "name": "Guerrero",
+    "id": "64da1f7bfadb40446cdb8bb1",
+    "name": "Earlene",
     "kind": 0,
-    "phone": "+1 (879) 445-2876",
+    "phone": "+1 (958) 585-2146",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06482,
-        "longitude": 19.95628
+        "latitude": 50.06277,
+        "longitude": 19.95932
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Quis ad et id qui aliqua eiusmod laborum non. Veniam magna consequat labore proident elit eu consequat anim enim Lorem qui mollit eiusmod. Tempor commodo cupidatat in aute reprehenderit. Adipisicing occaecat ex ut ea irure magna nostrud ad incididunt eiusmod fugiat.\r\n",
+    "description": "Quis amet exercitation aute enim reprehenderit ex exercitation aute. Ad aliquip qui ipsum dolor voluptate adipisicing sunt aliqua pariatur mollit. Do nisi proident fugiat aliquip irure non irure ea magna ad reprehenderit veniam. Minim est ad officia esse reprehenderit deserunt sit amet consectetur exercitation enim excepteur sit.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -279,30 +468,51 @@
     ]
   },
   {
-    "id": "64d9de296b83414efcd44cf2",
-    "name": "Yang",
+    "id": "64da1f7ba80e83b2cbfd9bd0",
+    "name": "Carey",
     "kind": 0,
-    "phone": "+1 (802) 500-3086",
+    "phone": "+1 (815) 434-2938",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06455,
-        "longitude": 19.98272
+        "latitude": 50.06839,
+        "longitude": 19.98303
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Consectetur nulla enim irure eu proident enim voluptate. Ea labore incididunt fugiat id dolor consequat est eiusmod sit. Sunt incididunt laborum enim dolor aute non est ipsum aliqua aliqua occaecat velit mollit. Aute excepteur veniam proident proident commodo eiusmod consequat.\r\n",
+    "description": "Occaecat ex proident velit adipisicing id adipisicing proident nisi ullamco laboris esse. Tempor ea nostrud qui ad sit elit nostrud cillum adipisicing. Deserunt id nisi do veniam aliquip ut sit. Ut ut id labore tempor aliquip laboris ex non laboris est consequat nostrud. Ut est amet esse ex reprehenderit laborum voluptate do.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -310,30 +520,51 @@
     ]
   },
   {
-    "id": "64d9de29aabdf3510ead5251",
-    "name": "Molina",
+    "id": "64da1f7b49c2f9edd8b02719",
+    "name": "Blanche",
     "kind": 0,
-    "phone": "+1 (995) 452-2531",
+    "phone": "+1 (886) 447-2670",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06942,
-        "longitude": 19.97966
+        "latitude": 50.06424,
+        "longitude": 19.95068
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Proident pariatur consectetur minim adipisicing mollit ullamco. Dolore esse eu dolore ipsum pariatur ex. Mollit officia dolor aliqua dolor nisi aliqua duis ad nostrud fugiat est ex nisi. Officia fugiat nulla occaecat deserunt culpa non. Sit anim amet elit sit ullamco laborum occaecat. Eu pariatur eiusmod elit incididunt aliquip consequat reprehenderit deserunt reprehenderit. Lorem voluptate et adipisicing dolor commodo id irure quis nisi.\r\n",
+    "description": "Adipisicing excepteur labore Lorem in. Voluptate quis labore aliqua duis enim. Cupidatat duis deserunt laborum ad exercitation excepteur.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -341,30 +572,51 @@
     ]
   },
   {
-    "id": "64d9de296fd7675ece988189",
-    "name": "Barlow",
+    "id": "64da1f7b50b98a5214a40f03",
+    "name": "Russell",
     "kind": 0,
-    "phone": "+1 (952) 406-3251",
+    "phone": "+1 (808) 437-2227",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06286,
-        "longitude": 19.95603
+        "latitude": 50.06886,
+        "longitude": 19.97122
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Occaecat laboris nostrud nisi et in. Qui ullamco nostrud irure amet. Ullamco commodo magna esse ex. Cupidatat officia sint velit voluptate nulla. Consectetur aute veniam consequat nisi do dolor.\r\n",
+    "description": "Dolore sit non dolore tempor. Consequat reprehenderit non mollit duis eu elit tempor laborum aliqua ullamco duis dolore Lorem amet. Occaecat cillum minim commodo pariatur commodo cillum nisi amet velit qui voluptate culpa. Anim elit mollit elit aute id do consectetur tempor officia mollit elit aute mollit. Elit anim nostrud consectetur esse officia id irure minim esse laborum pariatur anim.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -372,30 +624,51 @@
     ]
   },
   {
-    "id": "64d9de29078d2d9e5e2a4cc5",
-    "name": "Sweet",
+    "id": "64da1f7b1b2f283bdf5f63ad",
+    "name": "Jenna",
     "kind": 0,
-    "phone": "+1 (872) 497-3145",
+    "phone": "+1 (883) 496-3606",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06461,
-        "longitude": 19.95721
+        "latitude": 50.06282,
+        "longitude": 19.99792
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Dolor eiusmod ea nulla ea. Laboris ad sunt occaecat velit sit. Ipsum qui exercitation anim magna eiusmod sint reprehenderit. Culpa ad amet eu mollit ex dolore ullamco culpa elit nisi consequat in.\r\n",
+    "description": "Eu adipisicing enim quis sint consequat incididunt. Tempor cupidatat tempor occaecat excepteur veniam ad ea velit ipsum. Est labore pariatur fugiat voluptate tempor sint dolor magna fugiat laboris dolor. Elit sit in exercitation consectetur mollit occaecat voluptate culpa. Et occaecat irure sit ea elit in minim. Pariatur reprehenderit fugiat occaecat consequat cupidatat officia laborum sunt exercitation ea ea. Pariatur ullamco minim irure irure cillum officia officia sunt consectetur esse laborum exercitation amet.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -403,30 +676,51 @@
     ]
   },
   {
-    "id": "64d9de29446de2ca075205b2",
-    "name": "Adele",
+    "id": "64da1f7b68ee10f08d62d094",
+    "name": "Gail",
     "kind": 0,
-    "phone": "+1 (989) 518-2578",
+    "phone": "+1 (910) 465-2291",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06193,
-        "longitude": 19.95079
+        "latitude": 50.06148,
+        "longitude": 19.95293
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Excepteur ex do ipsum duis mollit nisi nisi eiusmod consequat. Qui deserunt nulla officia mollit laboris duis duis qui dolore non magna eiusmod adipisicing. Laboris eu dolore consectetur est anim est eiusmod. Eu dolore ullamco incididunt ad.\r\n",
+    "description": "Cillum et eiusmod sit ullamco quis aute. Est ea veniam id non. Cupidatat anim dolor ea quis nisi commodo tempor ut.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -434,30 +728,51 @@
     ]
   },
   {
-    "id": "64d9de29ae9c2ba9c1ee1def",
-    "name": "Eula",
+    "id": "64da1f7b44866f8dffd2bcca",
+    "name": "Etta",
     "kind": 0,
-    "phone": "+1 (957) 462-3837",
+    "phone": "+1 (977) 599-3393",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06506,
-        "longitude": 19.95692
+        "latitude": 50.06391,
+        "longitude": 19.9678
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Velit occaecat esse dolore sunt nisi. In ex Lorem reprehenderit consequat duis amet voluptate irure dolore adipisicing pariatur minim. Nulla consequat laboris enim quis amet proident incididunt minim dolore magna. Occaecat dolor culpa nisi est cupidatat in fugiat mollit ut ipsum sint nulla enim proident.\r\n",
+    "description": "Magna aliqua duis cillum sint non et incididunt sit cillum cupidatat ipsum aliquip. Quis nulla eiusmod tempor do dolor ipsum. Occaecat eiusmod ea et amet sunt veniam. Ipsum sint adipisicing sint ea in. Sint aliquip deserunt excepteur eu non aliqua commodo in eu. Duis esse magna fugiat ut officia consectetur reprehenderit.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -465,196 +780,10 @@
     ]
   },
   {
-    "id": "64d9de29e1ee42a817ee10a9",
-    "name": "Lenore",
+    "id": "64da1f7bdd610179cae6d676",
+    "name": "Parks",
     "kind": 0,
-    "phone": "+1 (838) 502-2236",
-    "address": {
-      "street": "Floriańska",
-      "number": "3d",
-      "city": "Kraków",
-      "country": "Polska",
-      "location": {
-        "latitude": 50.06542,
-        "longitude": 19.93884
-      }
-    },
-    "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
-    },
-    "description": "Minim ad anim velit minim. Consequat cupidatat labore tempor sint dolore nisi duis. Do ullamco aliquip mollit ipsum.\r\n",
-    "tags": [
-      "techno",
-      "pop",
-      "muzyka na żywo"
-    ]
-  },
-  {
-    "id": "64d9de2973e89abbdd2d5baa",
-    "name": "Essie",
-    "kind": 0,
-    "phone": "+1 (964) 568-2770",
-    "address": {
-      "street": "Floriańska",
-      "number": "3d",
-      "city": "Kraków",
-      "country": "Polska",
-      "location": {
-        "latitude": 50.06957,
-        "longitude": 19.97462
-      }
-    },
-    "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
-    },
-    "description": "Quis ipsum veniam duis voluptate in ipsum labore. Eu adipisicing consectetur laboris magna excepteur do minim aliqua mollit aliquip ullamco tempor sint. Esse dolore consequat pariatur quis deserunt enim qui in ipsum non et consequat Lorem.\r\n",
-    "tags": [
-      "techno",
-      "pop",
-      "muzyka na żywo"
-    ]
-  },
-  {
-    "id": "64d9de2984809c8f6d3448c7",
-    "name": "Powers",
-    "kind": 0,
-    "phone": "+1 (865) 507-2976",
-    "address": {
-      "street": "Floriańska",
-      "number": "3d",
-      "city": "Kraków",
-      "country": "Polska",
-      "location": {
-        "latitude": 50.0639,
-        "longitude": 19.93831
-      }
-    },
-    "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
-    },
-    "description": "Enim labore adipisicing anim fugiat ut. Veniam proident commodo ullamco exercitation amet cupidatat est amet velit nisi dolore. Non sunt nisi in irure mollit ex ea nostrud sint fugiat.\r\n",
-    "tags": [
-      "techno",
-      "pop",
-      "muzyka na żywo"
-    ]
-  },
-  {
-    "id": "64d9de29ce0efc9bf3d673ae",
-    "name": "Dixie",
-    "kind": 0,
-    "phone": "+1 (840) 415-2603",
-    "address": {
-      "street": "Floriańska",
-      "number": "3d",
-      "city": "Kraków",
-      "country": "Polska",
-      "location": {
-        "latitude": 50.06529,
-        "longitude": 19.98352
-      }
-    },
-    "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
-    },
-    "description": "Incididunt sint ex dolor non minim culpa ad proident sunt tempor consequat. Mollit consequat laboris cillum esse occaecat ea nulla dolor sit consequat adipisicing. Sit occaecat pariatur magna tempor pariatur culpa eu eiusmod sunt aliquip dolor dolore ipsum adipisicing. Dolor sint laborum mollit cupidatat qui amet adipisicing consequat minim qui.\r\n",
-    "tags": [
-      "techno",
-      "pop",
-      "muzyka na żywo"
-    ]
-  },
-  {
-    "id": "64d9de2955037408f7a69080",
-    "name": "Johanna",
-    "kind": 0,
-    "phone": "+1 (973) 414-2563",
-    "address": {
-      "street": "Floriańska",
-      "number": "3d",
-      "city": "Kraków",
-      "country": "Polska",
-      "location": {
-        "latitude": 50.06662,
-        "longitude": 19.9861
-      }
-    },
-    "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
-    },
-    "description": "Esse aute et id qui aute occaecat et dolore consectetur. Officia velit enim excepteur fugiat aliqua velit enim eu sunt adipisicing est consequat labore. Culpa tempor reprehenderit aliquip magna nisi. Pariatur amet ex occaecat ipsum voluptate ut nulla eiusmod commodo.\r\n",
-    "tags": [
-      "techno",
-      "pop",
-      "muzyka na żywo"
-    ]
-  },
-  {
-    "id": "64d9de29ca1a555a05832e86",
-    "name": "Rose",
-    "kind": 0,
-    "phone": "+1 (865) 590-2999",
-    "address": {
-      "street": "Floriańska",
-      "number": "3d",
-      "city": "Kraków",
-      "country": "Polska",
-      "location": {
-        "latitude": 50.0676,
-        "longitude": 19.98474
-      }
-    },
-    "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
-    },
-    "description": "Veniam id exercitation anim nulla eiusmod tempor proident minim dolor esse ad non. Veniam commodo aliqua consectetur aute aliquip sunt exercitation aliqua nisi nulla laboris dolore nulla. Anim esse quis sit ex magna occaecat duis. Adipisicing ipsum nostrud nostrud qui excepteur tempor eiusmod tempor. Officia nulla aute nostrud cupidatat do id laboris excepteur incididunt aliqua anim eu exercitation. Amet sunt anim commodo mollit mollit enim do aliqua irure sint non incididunt.\r\n",
-    "tags": [
-      "techno",
-      "pop",
-      "muzyka na żywo"
-    ]
-  },
-  {
-    "id": "64d9de29412e6a1924fcbf69",
-    "name": "Madeleine",
-    "kind": 0,
-    "phone": "+1 (989) 588-2820",
+    "phone": "+1 (916) 446-2457",
     "address": {
       "street": "Floriańska",
       "number": "3d",
@@ -662,19 +791,40 @@
       "country": "Polska",
       "location": {
         "latitude": 50.06696,
-        "longitude": 19.96961
+        "longitude": 19.98636
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Nisi officia ea ullamco excepteur amet veniam proident. Eu aliquip laborum est occaecat dolore Lorem consectetur. Mollit elit amet tempor enim excepteur reprehenderit et nostrud enim culpa eu.\r\n",
+    "description": "Deserunt laboris sint voluptate elit Lorem fugiat quis non culpa voluptate. Labore non ex in deserunt enim. Exercitation sint sunt est et ad quis est esse labore ad laboris esse. Ea labore laboris exercitation aliquip commodo nisi duis quis nulla mollit id proident.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -682,30 +832,51 @@
     ]
   },
   {
-    "id": "64d9de29efb58aa6f2f499d5",
-    "name": "Frederick",
+    "id": "64da1f7bec7aa9664866d265",
+    "name": "Dianna",
     "kind": 0,
-    "phone": "+1 (931) 502-3035",
+    "phone": "+1 (917) 495-3863",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06214,
-        "longitude": 19.98147
+        "latitude": 50.06544,
+        "longitude": 19.98043
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Culpa cillum anim pariatur excepteur irure non ipsum. Non exercitation ipsum cillum ex eiusmod aute. Est enim anim commodo consectetur qui irure tempor amet exercitation officia amet sint sint.\r\n",
+    "description": "Minim occaecat ex laborum irure exercitation incididunt aliquip duis eu. In mollit non aliquip duis consequat velit. Quis deserunt irure nostrud officia nisi.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -713,30 +884,51 @@
     ]
   },
   {
-    "id": "64d9de295137a12c327c0424",
-    "name": "Tommie",
+    "id": "64da1f7beefcf167a39c0dad",
+    "name": "Pauline",
     "kind": 0,
-    "phone": "+1 (864) 576-3167",
+    "phone": "+1 (966) 513-2645",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06945,
-        "longitude": 19.9699
+        "latitude": 50.06404,
+        "longitude": 19.98945
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Id do enim aliquip mollit consectetur ipsum velit non non anim ea. Pariatur do ullamco qui esse dolore enim magna quis anim enim deserunt. Culpa deserunt Lorem dolore dolor pariatur laboris fugiat dolor ea in aute proident do. Consequat sunt velit reprehenderit eu velit esse reprehenderit excepteur dolor culpa.\r\n",
+    "description": "Elit elit qui exercitation veniam anim enim do dolor labore magna proident excepteur aute. Lorem dolor fugiat cupidatat nisi occaecat et laboris ex amet mollit Lorem minim. Tempor aute sit do ex fugiat elit magna adipisicing cillum. Sunt amet amet nostrud sit quis elit. Exercitation voluptate sunt laboris consectetur consectetur velit do aliquip.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -744,30 +936,51 @@
     ]
   },
   {
-    "id": "64d9de292b3e45885c70f927",
-    "name": "Velasquez",
+    "id": "64da1f7bd9d1b52a153a9105",
+    "name": "Lakisha",
     "kind": 0,
-    "phone": "+1 (980) 526-3972",
+    "phone": "+1 (800) 539-2462",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06382,
-        "longitude": 19.96518
+        "latitude": 50.06905,
+        "longitude": 19.94454
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Consequat reprehenderit sit cupidatat culpa esse ullamco est ex sint laboris. Voluptate consequat ex cillum laborum voluptate minim eiusmod sit consequat ea culpa sint sint tempor. Consequat culpa pariatur fugiat tempor voluptate ipsum adipisicing ut est pariatur proident labore labore. Laboris veniam magna laboris ex minim cillum culpa et enim elit. Minim exercitation dolor anim ipsum et in cillum cillum ullamco mollit. Dolore irure nisi dolore ipsum mollit. Exercitation non ullamco consequat aute tempor do veniam reprehenderit consectetur nisi veniam Lorem.\r\n",
+    "description": "Do commodo quis cillum pariatur proident esse sit pariatur eu. Adipisicing culpa incididunt veniam anim ad id laborum consectetur dolor esse proident minim et incididunt. Quis adipisicing elit laborum ut Lorem sunt nulla ut ullamco ex excepteur et ullamco eiusmod. Sit dolore laboris incididunt voluptate nisi ad fugiat fugiat duis reprehenderit id. Magna fugiat ipsum nostrud nulla reprehenderit proident est ea ipsum proident deserunt. Deserunt mollit ipsum et laborum consectetur culpa consequat fugiat. Fugiat exercitation exercitation dolore et dolor occaecat.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -775,30 +988,51 @@
     ]
   },
   {
-    "id": "64d9de29e9eb9c1909dbd016",
-    "name": "Rosalie",
+    "id": "64da1f7b9fbde55033f91efe",
+    "name": "Trisha",
     "kind": 0,
-    "phone": "+1 (968) 595-2942",
+    "phone": "+1 (927) 457-2107",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06789,
-        "longitude": 19.9823
+        "latitude": 50.0637,
+        "longitude": 19.94227
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Magna deserunt voluptate qui cupidatat veniam laborum commodo pariatur exercitation enim. Ad Lorem ut do elit qui duis laborum officia anim ullamco ut. Minim sint consectetur qui sunt fugiat ad nisi velit ipsum ipsum aliqua laboris exercitation irure. Esse laboris tempor tempor nulla ex id ea veniam elit consequat officia.\r\n",
+    "description": "Aute enim exercitation excepteur labore ex non nisi. Duis eu labore et incididunt Lorem consequat occaecat tempor. Laboris ea occaecat dolor non.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -806,30 +1040,51 @@
     ]
   },
   {
-    "id": "64d9de2979185e2485f687aa",
-    "name": "Alejandra",
+    "id": "64da1f7b335488f1243a742f",
+    "name": "Allison",
     "kind": 0,
-    "phone": "+1 (975) 576-3210",
+    "phone": "+1 (925) 563-2034",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06753,
-        "longitude": 19.94521
+        "latitude": 50.06365,
+        "longitude": 19.97085
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Reprehenderit velit non irure enim non laboris proident proident adipisicing aliquip ea laborum non excepteur. Nisi esse nisi aute magna mollit labore. Officia duis ea excepteur nostrud aliquip est eiusmod. Nostrud deserunt occaecat nostrud qui magna veniam amet nisi eu aute labore Lorem qui. Quis adipisicing elit dolor irure aliqua officia incididunt mollit minim velit ex labore culpa fugiat.\r\n",
+    "description": "Occaecat aliqua exercitation elit aliqua incididunt reprehenderit ut pariatur. Excepteur esse in amet laboris exercitation ullamco reprehenderit ad. Irure ex cillum consequat et aute magna tempor esse. Commodo enim minim non quis non et. Id duis et anim amet commodo.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -837,30 +1092,51 @@
     ]
   },
   {
-    "id": "64d9de29523aa6af1c72289e",
-    "name": "Sybil",
+    "id": "64da1f7b1beee38f1b3f1292",
+    "name": "Branch",
     "kind": 0,
-    "phone": "+1 (912) 566-3200",
+    "phone": "+1 (873) 420-2458",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06211,
-        "longitude": 19.98765
+        "latitude": 50.06366,
+        "longitude": 19.98051
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Magna nostrud eu consectetur incididunt. Sit Lorem magna consectetur quis excepteur ipsum velit aliqua aliqua do laborum cillum laborum laborum. Eiusmod eu in veniam velit sint tempor dolor velit in enim incididunt commodo cillum.\r\n",
+    "description": "Fugiat dolore amet ipsum labore consequat cillum enim Lorem laboris et duis. Consectetur aliqua ex veniam fugiat nostrud in ex commodo eiusmod. Ullamco sint elit fugiat consectetur ad est fugiat exercitation ad cupidatat culpa. Nulla mollit amet ipsum aute duis dolore do ea aliquip exercitation et.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -868,30 +1144,51 @@
     ]
   },
   {
-    "id": "64d9de290aedc5d53f620098",
-    "name": "Laurie",
+    "id": "64da1f7b65e1efcb2e9e4a80",
+    "name": "Shelton",
     "kind": 0,
-    "phone": "+1 (914) 594-2170",
+    "phone": "+1 (838) 587-3036",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06735,
-        "longitude": 19.98928
+        "latitude": 50.06453,
+        "longitude": 19.94169
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Nostrud dolore et nisi incididunt sunt aliquip voluptate deserunt cupidatat cupidatat elit deserunt. Id veniam sunt aute minim. Nulla nisi fugiat dolor officia est mollit esse laborum sint incididunt quis consequat amet duis. Officia occaecat et dolor elit aliquip sint do exercitation. Id anim veniam eu enim magna consectetur qui sint enim. Quis sint magna aliqua magna occaecat aute est magna consectetur nisi cillum sit ea. Proident deserunt consectetur reprehenderit id exercitation ex duis ea ipsum fugiat nisi enim amet.\r\n",
+    "description": "Laborum cupidatat mollit eiusmod excepteur. Voluptate labore minim est aute ut sit duis voluptate qui. Lorem laborum eiusmod occaecat enim do adipisicing. Consectetur laboris non irure laborum esse pariatur ullamco cupidatat. Irure pariatur duis ea velit reprehenderit laborum exercitation sit. Ullamco ullamco ipsum non ex duis consectetur fugiat et pariatur. Dolor ex Lorem esse in nulla esse cupidatat esse occaecat culpa exercitation id ut eiusmod.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -899,30 +1196,51 @@
     ]
   },
   {
-    "id": "64d9de29bbd67b9628cdd36f",
-    "name": "Graciela",
+    "id": "64da1f7b0e6e0c4aaa1bb74e",
+    "name": "Kirkland",
     "kind": 0,
-    "phone": "+1 (841) 560-2132",
+    "phone": "+1 (850) 598-3254",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06994,
-        "longitude": 19.93799
+        "latitude": 50.06619,
+        "longitude": 19.95138
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Adipisicing reprehenderit non deserunt in adipisicing duis qui dolore deserunt. Deserunt elit ea est quis cupidatat velit pariatur do proident. Irure labore non ea tempor eiusmod quis.\r\n",
+    "description": "Deserunt ipsum adipisicing cupidatat amet quis officia Lorem id. Culpa dolore minim cillum ad mollit non laborum est sit. Sit enim veniam et enim sunt sit ex deserunt ad ullamco elit adipisicing.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -930,30 +1248,51 @@
     ]
   },
   {
-    "id": "64d9de2987fcf0dc994c7040",
-    "name": "Robbie",
+    "id": "64da1f7b2964190233be4e28",
+    "name": "Palmer",
     "kind": 0,
-    "phone": "+1 (859) 428-2040",
+    "phone": "+1 (836) 526-2879",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06381,
-        "longitude": 19.98784
+        "latitude": 50.06606,
+        "longitude": 19.99825
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Esse ullamco magna commodo enim nulla adipisicing nulla qui qui ad excepteur duis veniam in. Mollit Lorem culpa officia ex. Id est elit aliquip eu sint reprehenderit cillum culpa qui et in nostrud est ea. Pariatur ad aliquip excepteur tempor voluptate ipsum est velit proident laborum officia quis occaecat ad. Nulla reprehenderit exercitation sunt id in aliquip pariatur occaecat. Lorem id nostrud in tempor. Labore cillum exercitation nisi ut ipsum amet eiusmod nostrud do veniam commodo nostrud.\r\n",
+    "description": "Fugiat cupidatat ad dolore ea laboris mollit tempor anim nostrud consectetur voluptate dolore minim. Aliquip eu veniam sit esse aliqua non. Officia sit fugiat enim irure nostrud officia nisi laborum sint aliquip tempor laboris nostrud.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -961,30 +1300,51 @@
     ]
   },
   {
-    "id": "64d9de29d0bb5d103c9a31e9",
-    "name": "Rhodes",
+    "id": "64da1f7bd8043a8bc915445b",
+    "name": "Mullen",
     "kind": 0,
-    "phone": "+1 (939) 600-2042",
+    "phone": "+1 (878) 559-3247",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06793,
-        "longitude": 19.98513
+        "latitude": 50.06225,
+        "longitude": 19.9632
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Aliqua labore quis aliqua incididunt aliquip cupidatat incididunt duis fugiat velit deserunt sunt occaecat. Est eiusmod quis nulla in nulla mollit ipsum ex sint id ea laboris minim. Ut exercitation enim anim id excepteur ipsum. Elit ea qui nostrud sunt. Do veniam veniam est irure laborum aliqua. In ad fugiat eiusmod anim voluptate exercitation ea ea amet esse duis pariatur deserunt ut.\r\n",
+    "description": "Occaecat Lorem incididunt veniam nisi ea cupidatat enim irure quis amet et sit magna. Aliqua aliqua commodo dolore nulla qui culpa irure veniam aute amet ex. Eu pariatur consequat laborum ea laborum dolor amet non incididunt.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -992,30 +1352,51 @@
     ]
   },
   {
-    "id": "64d9de291916a236f83a799c",
-    "name": "Elsie",
+    "id": "64da1f7bf89f32e3c8528c4a",
+    "name": "Clements",
     "kind": 0,
-    "phone": "+1 (938) 472-3611",
+    "phone": "+1 (915) 567-3194",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06271,
-        "longitude": 19.95691
+        "latitude": 50.06546,
+        "longitude": 19.94477
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Fugiat excepteur et fugiat ipsum qui aliquip esse proident ad qui deserunt fugiat cillum. Minim ea fugiat irure Lorem officia excepteur do nisi dolor Lorem laboris commodo consectetur quis. Ex esse ullamco incididunt excepteur. Labore enim cillum laboris consectetur reprehenderit laboris ad amet nisi anim aliquip.\r\n",
+    "description": "In non ipsum consequat excepteur commodo incididunt amet. Culpa dolor in veniam commodo adipisicing ex dolore officia veniam reprehenderit laboris cillum magna in. Dolor occaecat eu consequat dolor officia nisi minim cupidatat laborum ipsum. Tempor eu commodo nisi voluptate deserunt ad tempor cupidatat officia qui anim magna mollit.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1023,30 +1404,51 @@
     ]
   },
   {
-    "id": "64d9de2959e39db936c281b3",
-    "name": "Simmons",
+    "id": "64da1f7b3b336debbb6fa1a8",
+    "name": "Powers",
     "kind": 0,
-    "phone": "+1 (983) 479-3454",
+    "phone": "+1 (991) 468-3452",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06835,
-        "longitude": 19.94405
+        "latitude": 50.06408,
+        "longitude": 19.93913
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Pariatur consectetur irure veniam deserunt. Magna sit Lorem enim culpa enim quis id excepteur non aliquip consequat et veniam. Laboris laborum consectetur commodo consequat eiusmod sit aute deserunt. Voluptate nisi elit anim exercitation ullamco consequat sit. Officia aliqua cupidatat ipsum dolor nisi ullamco officia aute labore consectetur enim adipisicing aliquip eiusmod. Cillum culpa enim consectetur mollit ex irure laborum tempor ut.\r\n",
+    "description": "Adipisicing velit duis nulla id commodo nulla qui consectetur reprehenderit Lorem ullamco. Lorem labore enim ipsum reprehenderit veniam elit. Consectetur occaecat dolore fugiat ut proident quis incididunt dolore duis. Ad et veniam amet laborum.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1054,30 +1456,51 @@
     ]
   },
   {
-    "id": "64d9de29920b26ebc1d4a8f4",
-    "name": "Acosta",
+    "id": "64da1f7b15dd3e27456c7b08",
+    "name": "Meagan",
     "kind": 0,
-    "phone": "+1 (919) 445-3927",
+    "phone": "+1 (891) 459-2780",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06267,
-        "longitude": 19.94867
+        "latitude": 50.06339,
+        "longitude": 19.97611
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Duis aute aliquip mollit dolore velit adipisicing. Labore ut ad et laboris tempor laborum consectetur fugiat veniam quis laboris. Laborum consequat dolore dolore ut fugiat nostrud cillum irure cillum tempor.\r\n",
+    "description": "Reprehenderit officia do labore fugiat exercitation qui officia ullamco laboris proident excepteur. Excepteur irure labore enim ut excepteur tempor ea mollit magna mollit. Laborum aliqua labore sit exercitation qui officia eu velit mollit fugiat ut cillum. Dolore incididunt proident cillum quis ad velit aliquip deserunt velit.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1085,30 +1508,51 @@
     ]
   },
   {
-    "id": "64d9de291233adbc3b811bc4",
-    "name": "Richmond",
+    "id": "64da1f7becc568e2c148f560",
+    "name": "Tracy",
     "kind": 0,
-    "phone": "+1 (904) 408-2323",
+    "phone": "+1 (959) 480-2024",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.0636,
-        "longitude": 19.98428
+        "latitude": 50.06163,
+        "longitude": 19.94854
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Velit esse sit do officia esse sunt pariatur adipisicing ut irure irure sunt quis irure. Sit ex do sunt magna esse. Magna mollit culpa sint aliquip proident ea ea. Aliquip in veniam deserunt aute. Magna amet consectetur proident cupidatat pariatur culpa excepteur. Et occaecat Lorem deserunt eiusmod ea adipisicing laboris. Fugiat tempor Lorem proident consectetur enim id irure qui elit pariatur officia dolor fugiat esse.\r\n",
+    "description": "Ipsum commodo aliquip esse ad veniam velit consectetur non pariatur dolor anim. Laboris excepteur ad tempor esse laborum commodo. Ea irure ipsum culpa voluptate ex est officia ex.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1116,30 +1560,51 @@
     ]
   },
   {
-    "id": "64d9de2980a347812aa863d7",
-    "name": "Pope",
+    "id": "64da1f7bd6ef8ef8b7361232",
+    "name": "Estelle",
     "kind": 0,
-    "phone": "+1 (940) 575-2471",
+    "phone": "+1 (820) 500-2927",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06639,
-        "longitude": 19.95391
+        "latitude": 50.06985,
+        "longitude": 19.98277
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Sint consequat quis incididunt dolore consequat labore magna sit proident fugiat. Sunt nulla culpa esse proident fugiat laboris ullamco aute ex. Adipisicing commodo laboris veniam eiusmod amet non qui aliquip occaecat quis voluptate. Nulla reprehenderit commodo ipsum ut irure pariatur sit est Lorem do dolore do dolore. Incididunt mollit aliqua exercitation id nostrud et magna mollit laboris ex eiusmod. Duis deserunt quis do culpa voluptate Lorem est. Quis enim occaecat in Lorem minim exercitation exercitation commodo.\r\n",
+    "description": "Aliquip sunt cillum id consectetur adipisicing adipisicing reprehenderit ut. Culpa magna ipsum duis culpa proident cillum voluptate est tempor consectetur non ut. Reprehenderit consequat consectetur cupidatat Lorem consequat anim. Velit enim ad culpa in tempor reprehenderit proident sunt id veniam elit. Est tempor aliqua exercitation reprehenderit dolor tempor cillum eu velit labore ex exercitation.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1147,30 +1612,51 @@
     ]
   },
   {
-    "id": "64d9de29bdc48d202e70cdd6",
-    "name": "Chambers",
+    "id": "64da1f7bfa25ab569a23397e",
+    "name": "Haynes",
     "kind": 0,
-    "phone": "+1 (880) 537-2868",
+    "phone": "+1 (927) 446-2973",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06227,
-        "longitude": 19.93781
+        "latitude": 50.06167,
+        "longitude": 19.99626
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Elit voluptate mollit aliquip consequat sit sit enim ut irure fugiat anim. Aliqua fugiat veniam incididunt incididunt culpa nisi ut reprehenderit esse anim cupidatat occaecat quis. Elit exercitation anim exercitation labore. Adipisicing deserunt officia sunt officia mollit dolor pariatur do consectetur velit. Consequat consequat cillum id dolore pariatur mollit irure magna occaecat reprehenderit fugiat. Est velit eu id labore enim minim enim reprehenderit voluptate.\r\n",
+    "description": "Labore ex reprehenderit et exercitation culpa sunt duis ea ex nisi sunt incididunt occaecat. Ut officia aute proident amet proident ullamco sunt labore velit excepteur dolore. Amet est magna deserunt duis pariatur cillum ad culpa officia. Ad in sit in magna est anim sit.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1178,30 +1664,51 @@
     ]
   },
   {
-    "id": "64d9de29f7230d54594e9f1f",
-    "name": "Arnold",
+    "id": "64da1f7bf8e897318f545f9a",
+    "name": "Silvia",
     "kind": 0,
-    "phone": "+1 (871) 559-2496",
+    "phone": "+1 (858) 427-3833",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06966,
-        "longitude": 19.99203
+        "latitude": 50.06234,
+        "longitude": 19.9446
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Dolore do eu irure laboris duis. Fugiat quis qui fugiat esse cillum pariatur voluptate sit non aliquip. Id irure sit Lorem non officia eu ea cupidatat laborum et. Culpa fugiat eiusmod est consectetur incididunt velit fugiat tempor Lorem in ullamco fugiat. Enim consequat incididunt nostrud occaecat qui ex qui laborum eiusmod ullamco magna nulla qui sint. Eiusmod enim nostrud commodo non velit. Pariatur laborum consequat eiusmod magna esse sit non Lorem deserunt laboris laboris esse ullamco qui.\r\n",
+    "description": "Eiusmod pariatur do duis laborum cupidatat. Reprehenderit enim nostrud occaecat mollit cillum proident ut eiusmod culpa ullamco anim ullamco deserunt. Irure ad ullamco veniam aliquip consectetur anim ullamco velit sunt reprehenderit qui. Do esse elit officia nulla sint sit eiusmod anim tempor amet excepteur et labore.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1209,30 +1716,51 @@
     ]
   },
   {
-    "id": "64d9de293129dc30d4f79fca",
-    "name": "Sondra",
+    "id": "64da1f7b42519e6a4cb3bf2f",
+    "name": "Leona",
     "kind": 0,
-    "phone": "+1 (820) 478-2435",
+    "phone": "+1 (920) 596-2530",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.0662,
-        "longitude": 19.93787
+        "latitude": 50.06812,
+        "longitude": 19.98788
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Velit culpa esse sunt reprehenderit eiusmod esse consequat pariatur dolore officia consequat irure sint esse. Elit duis mollit velit qui aute elit occaecat reprehenderit dolor cupidatat nulla irure amet aliquip. Nulla officia laboris minim irure labore non esse nostrud ad ea. Ullamco ut culpa in adipisicing anim culpa cillum culpa qui eiusmod aliquip cupidatat amet anim. Et labore ad sunt amet qui Lorem commodo cillum tempor. Sit minim excepteur amet id. Commodo exercitation mollit tempor et.\r\n",
+    "description": "Incididunt eu velit officia laboris id esse aliquip laboris ipsum anim proident commodo commodo. Officia duis magna minim nisi ut. Veniam sunt velit nulla nisi ea sint. Sit cupidatat non fugiat ex tempor. Deserunt mollit ea sint occaecat veniam reprehenderit enim et elit pariatur. Proident sint dolor do laboris et cupidatat voluptate non incididunt ea ad quis occaecat. Aliquip adipisicing enim est cillum commodo ullamco sint irure.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1240,30 +1768,51 @@
     ]
   },
   {
-    "id": "64d9de2907906f45b50fdb01",
-    "name": "Amy",
+    "id": "64da1f7bf603f08271077abd",
+    "name": "Clarissa",
     "kind": 0,
-    "phone": "+1 (973) 600-2329",
+    "phone": "+1 (973) 508-3446",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06629,
-        "longitude": 19.94258
+        "latitude": 50.06296,
+        "longitude": 19.97532
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Ipsum enim veniam velit elit excepteur quis tempor id quis enim exercitation. Fugiat ea labore occaecat ex veniam aliqua laborum cillum dolor labore ea proident. Velit mollit amet laboris commodo est Lorem Lorem non nulla.\r\n",
+    "description": "Excepteur commodo sint officia ex deserunt non sit sint. Commodo minim dolor proident enim laborum quis minim ut eiusmod adipisicing ipsum enim. Sint sit dolor occaecat et amet nulla dolor id enim consequat veniam.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1271,30 +1820,51 @@
     ]
   },
   {
-    "id": "64d9de299c2bdf26b50ba7ad",
-    "name": "Ellen",
+    "id": "64da1f7baec1abf0db443799",
+    "name": "Elisabeth",
     "kind": 0,
-    "phone": "+1 (855) 526-3283",
+    "phone": "+1 (945) 543-2546",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06344,
-        "longitude": 19.9847
+        "latitude": 50.06627,
+        "longitude": 19.96799
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Id sunt ea nisi nostrud. Ex non do dolore do mollit. Aliqua labore sint amet occaecat laboris pariatur cillum culpa tempor. Ea ut duis ex laborum dolore sunt in velit esse. Pariatur nostrud commodo commodo sit veniam sunt aliquip enim dolor. Id aute sunt ullamco fugiat minim. Proident cillum sint pariatur duis qui laboris.\r\n",
+    "description": "In labore velit do duis fugiat in elit esse eu cupidatat. Ea non qui culpa reprehenderit est. Ea nulla labore consequat magna commodo anim culpa ipsum veniam in nulla. Laboris deserunt magna irure tempor deserunt ullamco reprehenderit deserunt nisi duis dolore nostrud nulla duis. Occaecat ex ex nostrud ipsum ullamco. Aliquip Lorem laborum eiusmod cillum elit voluptate sint id amet sunt.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1302,30 +1872,51 @@
     ]
   },
   {
-    "id": "64d9de29f7eba6980565798c",
-    "name": "Georgia",
+    "id": "64da1f7bd2c4ffd3a6000ebd",
+    "name": "Jimmie",
     "kind": 0,
-    "phone": "+1 (961) 442-3171",
+    "phone": "+1 (824) 597-3844",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06307,
-        "longitude": 19.99274
+        "latitude": 50.06521,
+        "longitude": 19.95821
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Magna eiusmod in dolore anim laborum in pariatur. Nisi eu laborum eu consequat irure aute qui duis do anim anim. Cupidatat nulla occaecat elit voluptate aliquip sunt sunt velit.\r\n",
+    "description": "Irure cillum eiusmod exercitation ex amet nostrud mollit et ut. Enim do velit ex elit incididunt do laboris. Elit esse qui duis eu. Mollit incididunt tempor veniam ex tempor quis non consequat amet aute ullamco fugiat dolore. Sunt sunt cillum velit pariatur veniam irure eu cupidatat anim proident eiusmod ad magna enim.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1333,10 +1924,10 @@
     ]
   },
   {
-    "id": "64d9de297c85beb0824a2d8e",
-    "name": "Marquita",
+    "id": "64da1f7b24042baf2d4721ef",
+    "name": "Chandler",
     "kind": 0,
-    "phone": "+1 (809) 487-3363",
+    "phone": "+1 (862) 435-3229",
     "address": {
       "street": "Floriańska",
       "number": "3d",
@@ -1344,19 +1935,40 @@
       "country": "Polska",
       "location": {
         "latitude": 50.0622,
-        "longitude": 19.97002
+        "longitude": 19.96599
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Commodo ea mollit id officia et ex eu eiusmod adipisicing sint ea. Et Lorem nostrud amet dolor amet. Id labore incididunt anim velit excepteur do incididunt occaecat ipsum velit incididunt dolor. Consectetur non dolor cupidatat adipisicing exercitation dolor sunt sit esse. In voluptate aliquip ad laboris velit eu. Exercitation cillum nisi nisi sit nisi dolor occaecat eu. Veniam est fugiat amet minim nostrud deserunt id minim anim laborum ex.\r\n",
+    "description": "Do Lorem do id tempor enim ad excepteur elit pariatur. Adipisicing ex ipsum et mollit cupidatat exercitation occaecat nostrud id aliqua ipsum aliqua qui dolore. Ex quis aliqua occaecat minim eu nulla incididunt laboris quis elit labore pariatur ullamco. Mollit excepteur pariatur elit eiusmod commodo deserunt amet. Laboris ea consequat cillum veniam incididunt anim mollit reprehenderit amet excepteur incididunt.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1364,30 +1976,51 @@
     ]
   },
   {
-    "id": "64d9de2923997ac4b26cf90a",
-    "name": "Charlene",
+    "id": "64da1f7b3eb4f1124257b668",
+    "name": "Odessa",
     "kind": 0,
-    "phone": "+1 (939) 475-3636",
+    "phone": "+1 (845) 415-3810",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.0693,
-        "longitude": 19.97761
+        "latitude": 50.06732,
+        "longitude": 19.96831
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Do in laboris commodo veniam ullamco dolor duis. Deserunt duis amet voluptate pariatur. Veniam irure consectetur ullamco ea sit cupidatat in dolor pariatur culpa exercitation qui.\r\n",
+    "description": "Commodo est aliquip officia eu est ea aliquip. Voluptate non nisi mollit sint dolor exercitation aute reprehenderit elit Lorem incididunt nostrud enim eu. Amet cillum tempor eu deserunt. Minim minim ex aliqua deserunt cupidatat irure ut exercitation consectetur incididunt. Minim elit sit anim quis sunt elit voluptate velit aliqua consequat non est. Laboris fugiat eu sint minim reprehenderit id amet fugiat.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1395,30 +2028,51 @@
     ]
   },
   {
-    "id": "64d9de29940e2fb9d035a91f",
-    "name": "Tiffany",
+    "id": "64da1f7bdf9b0479b61e6d2b",
+    "name": "Mckinney",
     "kind": 0,
-    "phone": "+1 (909) 415-2318",
+    "phone": "+1 (961) 570-2847",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06859,
-        "longitude": 19.99439
+        "latitude": 50.06443,
+        "longitude": 19.96747
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Elit eu consequat culpa do enim ullamco officia eiusmod nisi nisi. Laborum duis deserunt sit reprehenderit elit aliquip sit do irure minim. In sit proident aliqua tempor aliqua irure in consectetur. Dolore sint officia eu labore anim.\r\n",
+    "description": "Adipisicing dolore ut deserunt consectetur eu pariatur culpa sunt qui eiusmod. Excepteur ullamco irure do enim aliquip occaecat exercitation irure. Est fugiat sunt eiusmod ad cillum labore aliquip voluptate.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1426,30 +2080,51 @@
     ]
   },
   {
-    "id": "64d9de297450b0e8ed0bd0c3",
-    "name": "Corina",
+    "id": "64da1f7b8fe80bc4e60bbbc8",
+    "name": "Miles",
     "kind": 0,
-    "phone": "+1 (913) 527-3874",
+    "phone": "+1 (820) 558-2055",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06875,
-        "longitude": 19.98886
+        "latitude": 50.06863,
+        "longitude": 19.9856
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Do sint occaecat ut consequat ad incididunt elit incididunt laboris. Elit sit proident cillum culpa. Est amet labore in non. Nostrud occaecat reprehenderit velit culpa excepteur in nisi ullamco quis cillum pariatur ex id eu. Eiusmod sunt ipsum pariatur minim irure excepteur sit Lorem nisi. Nulla nostrud adipisicing do aliquip fugiat amet ad pariatur exercitation. Id reprehenderit proident cupidatat elit id velit ut deserunt et eiusmod laborum ea.\r\n",
+    "description": "Ullamco nisi excepteur quis veniam adipisicing elit est nulla occaecat adipisicing. Culpa nulla dolor ullamco ea cupidatat est ex sit. Enim pariatur ut cupidatat ad laboris eiusmod ad culpa qui quis. Culpa sunt nostrud laborum mollit. Irure commodo consectetur fugiat incididunt sint commodo ipsum elit.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1457,30 +2132,51 @@
     ]
   },
   {
-    "id": "64d9de296077afaf33453cc6",
-    "name": "Jasmine",
+    "id": "64da1f7bf16074cd96290957",
+    "name": "Sharp",
     "kind": 0,
-    "phone": "+1 (915) 439-3198",
+    "phone": "+1 (814) 553-2085",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06307,
-        "longitude": 19.98515
+        "latitude": 50.06705,
+        "longitude": 19.99132
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Ex id fugiat fugiat fugiat non deserunt nisi dolore labore ut est officia. Commodo proident ullamco pariatur irure mollit id proident sit incididunt adipisicing culpa. Sunt non quis ex anim.\r\n",
+    "description": "Commodo esse veniam commodo do magna non elit incididunt quis occaecat est ut ex fugiat. Laborum elit mollit commodo enim tempor proident commodo reprehenderit reprehenderit. In id non commodo minim officia consectetur. Excepteur duis anim nostrud cillum do id proident enim nulla pariatur. Quis pariatur ea aute veniam in. Incididunt commodo ut veniam dolor adipisicing eiusmod sint deserunt reprehenderit. Velit exercitation aute duis cupidatat cillum aliquip incididunt amet non commodo ea nulla.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1488,30 +2184,51 @@
     ]
   },
   {
-    "id": "64d9de29884a9cbd213d63ae",
-    "name": "Rasmussen",
+    "id": "64da1f7b7fec112b64dc7be6",
+    "name": "Rosa",
     "kind": 0,
-    "phone": "+1 (888) 480-3077",
+    "phone": "+1 (898) 540-3661",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06274,
-        "longitude": 19.97452
+        "latitude": 50.0649,
+        "longitude": 19.98038
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Magna est elit sit consequat ut ex ad anim est. Incididunt quis excepteur voluptate anim mollit in aliqua magna deserunt exercitation. Sunt incididunt quis elit mollit mollit ea proident nisi aliquip sit sint. Eiusmod ullamco consequat ipsum reprehenderit eu tempor dolore veniam et nisi fugiat cupidatat ullamco.\r\n",
+    "description": "Culpa amet culpa eiusmod excepteur adipisicing esse cillum. Adipisicing incididunt cupidatat fugiat ex eiusmod ipsum sunt. Sit dolor eiusmod non eu culpa cupidatat dolor id ea incididunt ex quis. Ad culpa et proident esse Lorem labore cupidatat eu cillum eu do nisi. Ut dolor mollit eiusmod nisi aute. Qui dolor eu quis consequat.\r\n",
     "tags": [
       "techno",
       "pop",
@@ -1519,30 +2236,363 @@
     ]
   },
   {
-    "id": "64d9de29a3917dc2f0f5a8df",
-    "name": "Janice",
+    "id": "64da1f7b84e6681f73a9b4a7",
+    "name": "Patton",
     "kind": 0,
-    "phone": "+1 (927) 460-2128",
+    "phone": "+1 (881) 555-2639",
     "address": {
       "street": "Floriańska",
       "number": "3d",
       "city": "Kraków",
       "country": "Polska",
       "location": {
-        "latitude": 50.06554,
-        "longitude": 19.96907
+        "latitude": 50.06201,
+        "longitude": 19.95451
       }
     },
     "openingHours": {
-      "monday": "12:00-03:00",
-      "tuesday": "12:00-03:00",
-      "wednesday": "12:00-03:00",
-      "thursday": "12:00-03:00",
-      "friday": "10:00-05:00",
-      "saturday": "10:00-05:00",
-      "sunday": "15:00-02:00"
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
     },
-    "description": "Consectetur fugiat velit id nulla. Nulla labore et ipsum pariatur labore veniam velit velit nostrud amet. Ad ad est eiusmod elit eu. Aliquip laboris enim sint elit exercitation. Veniam fugiat voluptate veniam nisi ullamco irure ea voluptate anim laborum dolor enim.\r\n",
+    "description": "Officia nostrud laboris consectetur aliquip duis ea dolor. Cillum esse et do esse ut culpa minim. Veniam nisi in aliquip magna elit officia laboris labore amet nulla reprehenderit consectetur excepteur consequat.\r\n",
+    "tags": [
+      "techno",
+      "pop",
+      "muzyka na żywo"
+    ]
+  },
+  {
+    "id": "64da1f7b7492f1fa9925c9bb",
+    "name": "Simon",
+    "kind": 0,
+    "phone": "+1 (850) 521-2366",
+    "address": {
+      "street": "Floriańska",
+      "number": "3d",
+      "city": "Kraków",
+      "country": "Polska",
+      "location": {
+        "latitude": 50.06207,
+        "longitude": 19.96127
+      }
+    },
+    "openingHours": {
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
+    },
+    "description": "Anim veniam culpa ullamco fugiat do ullamco laboris et veniam adipisicing. Laborum ullamco minim in ea. Duis fugiat id ipsum irure sint consectetur ad cillum esse adipisicing sint adipisicing consequat nulla. Adipisicing anim irure quis cupidatat elit. Commodo ut sunt dolor nisi in. Enim labore deserunt adipisicing elit laboris sit in commodo laborum incididunt dolor labore magna.\r\n",
+    "tags": [
+      "techno",
+      "pop",
+      "muzyka na żywo"
+    ]
+  },
+  {
+    "id": "64da1f7b4855470868d8eff5",
+    "name": "Aurora",
+    "kind": 0,
+    "phone": "+1 (816) 442-2271",
+    "address": {
+      "street": "Floriańska",
+      "number": "3d",
+      "city": "Kraków",
+      "country": "Polska",
+      "location": {
+        "latitude": 50.0678,
+        "longitude": 19.9477
+      }
+    },
+    "openingHours": {
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
+    },
+    "description": "Velit nisi occaecat esse consequat. Sint ea magna anim tempor excepteur ullamco duis nulla ullamco consectetur duis in occaecat. Sunt consequat laborum deserunt dolor ipsum aliquip enim sunt excepteur in aliqua consequat nisi pariatur. Cupidatat laboris commodo dolor duis do magna ullamco adipisicing aliqua eu occaecat aute qui aliqua. In mollit cillum culpa reprehenderit esse dolore Lorem cupidatat aliquip dolore dolore. Lorem laborum elit occaecat irure in dolore dolor esse aliquip fugiat.\r\n",
+    "tags": [
+      "techno",
+      "pop",
+      "muzyka na żywo"
+    ]
+  },
+  {
+    "id": "64da1f7b404989ae29bf15f4",
+    "name": "Dorothea",
+    "kind": 0,
+    "phone": "+1 (903) 472-2849",
+    "address": {
+      "street": "Floriańska",
+      "number": "3d",
+      "city": "Kraków",
+      "country": "Polska",
+      "location": {
+        "latitude": 50.06652,
+        "longitude": 19.98606
+      }
+    },
+    "openingHours": {
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
+    },
+    "description": "Fugiat aliqua ad aliquip consequat in tempor exercitation nisi nostrud non eiusmod sunt minim. Labore ex enim adipisicing ad elit veniam sunt nisi adipisicing est nostrud laborum id. Enim sit deserunt adipisicing est in adipisicing sint cupidatat incididunt nostrud magna.\r\n",
+    "tags": [
+      "techno",
+      "pop",
+      "muzyka na żywo"
+    ]
+  },
+  {
+    "id": "64da1f7b82a893d8f4a9c26f",
+    "name": "Sharlene",
+    "kind": 0,
+    "phone": "+1 (862) 550-2966",
+    "address": {
+      "street": "Floriańska",
+      "number": "3d",
+      "city": "Kraków",
+      "country": "Polska",
+      "location": {
+        "latitude": 50.06555,
+        "longitude": 19.94806
+      }
+    },
+    "openingHours": {
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
+    },
+    "description": "Excepteur pariatur officia ullamco et nostrud id reprehenderit cupidatat eu. Esse et aliqua eu non mollit laboris dolore cupidatat. Sunt cillum voluptate voluptate fugiat labore eiusmod deserunt ipsum exercitation Lorem nisi aute labore. Irure amet enim consectetur aute ad minim sunt ullamco incididunt duis veniam tempor ex.\r\n",
+    "tags": [
+      "techno",
+      "pop",
+      "muzyka na żywo"
+    ]
+  },
+  {
+    "id": "64da1f7b7ae7089dc691a0db",
+    "name": "Cummings",
+    "kind": 0,
+    "phone": "+1 (840) 504-2537",
+    "address": {
+      "street": "Floriańska",
+      "number": "3d",
+      "city": "Kraków",
+      "country": "Polska",
+      "location": {
+        "latitude": 50.06665,
+        "longitude": 19.98899
+      }
+    },
+    "openingHours": {
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
+    },
+    "description": "Fugiat officia excepteur deserunt irure est nisi id ullamco excepteur. Do culpa velit enim occaecat ut sunt labore magna aute est sunt laborum fugiat ut. Id ullamco adipisicing consequat dolor consectetur sint excepteur commodo tempor in. Consequat voluptate officia voluptate fugiat. Ipsum velit tempor dolore sunt irure tempor aliqua elit fugiat qui aute fugiat. Amet exercitation et ullamco quis officia.\r\n",
+    "tags": [
+      "techno",
+      "pop",
+      "muzyka na żywo"
+    ]
+  },
+  {
+    "id": "64da1f7bc48d340a456b00bf",
+    "name": "Pacheco",
+    "kind": 0,
+    "phone": "+1 (870) 478-3283",
+    "address": {
+      "street": "Floriańska",
+      "number": "3d",
+      "city": "Kraków",
+      "country": "Polska",
+      "location": {
+        "latitude": 50.06286,
+        "longitude": 19.958
+      }
+    },
+    "openingHours": {
+      "monday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "tuesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "wednesday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "thursday": {
+        "openingTime": "12:00",
+        "closingTime": "03:00"
+      },
+      "friday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "saturday": {
+        "openingTime": "10:00",
+        "closingTime": "05:00"
+      },
+      "sunday": {
+        "openingTime": "15:00",
+        "closingTime": "02:00"
+      }
+    },
+    "description": "Et labore eu officia elit amet velit anim laboris sit est occaecat magna velit aliquip. Minim nulla exercitation enim esse ea ullamco ut ad consectetur. Pariatur dolore voluptate reprehenderit anim velit anim duis voluptate. Irure sunt irure officia occaecat. Do dolore et duis culpa officia aute.\r\n",
     "tags": [
       "techno",
       "pop",
