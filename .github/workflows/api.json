@@ -16,32 +16,32 @@
     },
     "openingHours": {
       "monday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "tuesday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "wednesday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "thursday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "friday": {
-        "openingTime": "10:00",
-        "closingTime": "05:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "saturday": {
-        "openingTime": "10:00",
-        "closingTime": "05:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "sunday": {
-        "openingTime": "15:00",
-        "closingTime": "02:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       }
     },
     "description": "Voluptate proident enim enim Lorem quis excepteur et et. Esse minim anim consectetur dolore proident occaecat reprehenderit. Ut ea minim occaecat velit. Amet do adipisicing in anim culpa proident cupidatat eu. Ex laboris anim ullamco ullamco nisi tempor ex proident ad nulla. Enim culpa velit non anim ex.\r\n",
@@ -68,32 +68,32 @@
     },
     "openingHours": {
       "monday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "tuesday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "wednesday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "thursday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "friday": {
-        "openingTime": "10:00",
-        "closingTime": "05:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "saturday": {
-        "openingTime": "10:00",
-        "closingTime": "05:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "sunday": {
-        "openingTime": "15:00",
-        "closingTime": "02:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       }
     },
     "description": "Excepteur anim velit eu fugiat elit anim esse adipisicing. Duis consequat quis aliquip aute anim dolore voluptate do adipisicing nisi ex duis est. Dolore laboris tempor nisi consequat non pariatur dolore quis. Ea dolore laboris fugiat nulla cupidatat aute.\r\n",
@@ -120,32 +120,32 @@
     },
     "openingHours": {
       "monday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "tuesday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "wednesday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "thursday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "friday": {
-        "openingTime": "10:00",
-        "closingTime": "05:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "saturday": {
-        "openingTime": "10:00",
-        "closingTime": "05:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "sunday": {
-        "openingTime": "15:00",
-        "closingTime": "02:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       }
     },
     "description": "Nisi minim excepteur quis do veniam velit amet adipisicing deserunt. Exercitation do aliqua aute ullamco. Adipisicing do incididunt sint non ad enim laborum non in aliqua ex exercitation minim. Non ea irure reprehenderit adipisicing ullamco proident id consectetur consectetur. Sit ex ex laboris mollit pariatur culpa. Dolor laborum nulla consequat incididunt reprehenderit eiusmod qui sit est adipisicing. Nisi fugiat proident minim non ullamco dolore do nulla magna ea.\r\n",
@@ -484,32 +484,32 @@
     },
     "openingHours": {
       "monday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "tuesday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "wednesday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "thursday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "friday": {
-        "openingTime": "10:00",
-        "closingTime": "05:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "saturday": {
-        "openingTime": "10:00",
-        "closingTime": "05:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "sunday": {
-        "openingTime": "15:00",
-        "closingTime": "02:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       }
     },
     "description": "Occaecat ex proident velit adipisicing id adipisicing proident nisi ullamco laboris esse. Tempor ea nostrud qui ad sit elit nostrud cillum adipisicing. Deserunt id nisi do veniam aliquip ut sit. Ut ut id labore tempor aliquip laboris ex non laboris est consequat nostrud. Ut est amet esse ex reprehenderit laborum voluptate do.\r\n",
@@ -692,32 +692,32 @@
     },
     "openingHours": {
       "monday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "tuesday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "wednesday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "thursday": {
-        "openingTime": "12:00",
-        "closingTime": "03:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "friday": {
-        "openingTime": "10:00",
-        "closingTime": "05:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "saturday": {
-        "openingTime": "10:00",
-        "closingTime": "05:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       },
       "sunday": {
-        "openingTime": "15:00",
-        "closingTime": "02:00"
+        "openingTime": "00:00",
+        "closingTime": "01:00"
       }
     },
     "description": "Cillum et eiusmod sit ullamco quis aute. Est ea veniam id non. Cupidatat anim dolor ea quis nisi commodo tempor ut.\r\n",
